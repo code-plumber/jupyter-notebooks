@@ -1,0 +1,4 @@
+pymysql
+pandas
+Jinja2
+openpyxl
